@@ -150,6 +150,19 @@
 
 /* misc */
 
+.tiles .tile:nth-child(odd) {
+    margin-right: 4px;
+}
+
+.tile{
+	float: left; 
+	width: calc(50.0% - 2px); 
+	margin-right: 0px; 
+	margin-bottom: 0.0%; 
+	margin-left: 0.0%;
+}
+
+
 #archiev {
 	float: left; width: calc(25.0% - 3px); margin-right: 4px; margin-bottom: 0.0%; margin-left: 0.0%;
 }
@@ -160,7 +173,7 @@
 	float: left; width: calc(25.0% - 3px); margin-right: 0px; margin-bottom: 0.0%; margin-left: 0.0%;
 }
 #archievlongEnd {
-	float: left; width: calc(50.0% - 2px); margin-right: 0px; margin-bottom: 0.0%; margin-left: 0.0%;
+	/*float: left; width: calc(50.0% - 2px); margin-right: 0px; margin-bottom: 0.0%; margin-left: 0.0%;*/
 }
 
 #archievlongEnd div,
