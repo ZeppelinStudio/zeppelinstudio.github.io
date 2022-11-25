@@ -14,6 +14,42 @@
                 href="http://zeppelinstudio.github.io/de/games/schein/"
                 />
   </url><url>
+    <loc>http://zeppelinstudio.github.io/de/games/coralreef/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="http://zeppelinstudio.github.io/games/coralreef/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="de"
+                href="http://zeppelinstudio.github.io/de/games/coralreef/"
+                />
+  </url><url>
+    <loc>http://zeppelinstudio.github.io/de/games/rebuilders/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="http://zeppelinstudio.github.io/games/rebuilders/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="de"
+                href="http://zeppelinstudio.github.io/de/games/rebuilders/"
+                />
+  </url><url>
+    <loc>http://zeppelinstudio.github.io/de/games/luther/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="http://zeppelinstudio.github.io/games/luther/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="de"
+                href="http://zeppelinstudio.github.io/de/games/luther/"
+                />
+  </url><url>
     <loc>http://zeppelinstudio.github.io/de/headless/</loc>
     <xhtml:link
                 rel="alternate"
@@ -36,6 +72,30 @@
                 rel="alternate"
                 hreflang="de"
                 href="http://zeppelinstudio.github.io/de/categories/"
+                />
+  </url><url>
+    <loc>http://zeppelinstudio.github.io/de/games/crave/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="http://zeppelinstudio.github.io/games/crave/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="de"
+                href="http://zeppelinstudio.github.io/de/games/crave/"
+                />
+  </url><url>
+    <loc>http://zeppelinstudio.github.io/de/games/dataclash/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="http://zeppelinstudio.github.io/games/dataclash/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="de"
+                href="http://zeppelinstudio.github.io/de/games/dataclash/"
                 />
   </url><url>
     <loc>http://zeppelinstudio.github.io/de/services/</loc>
@@ -62,6 +122,18 @@
                 href="http://zeppelinstudio.github.io/de/games/"
                 />
   </url><url>
+    <loc>http://zeppelinstudio.github.io/de/games/grattle/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="http://zeppelinstudio.github.io/games/grattle/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="de"
+                href="http://zeppelinstudio.github.io/de/games/grattle/"
+                />
+  </url><url>
     <loc>http://zeppelinstudio.github.io/de/contact/</loc>
     <xhtml:link
                 rel="alternate"
@@ -72,6 +144,30 @@
                 rel="alternate"
                 hreflang="de"
                 href="http://zeppelinstudio.github.io/de/contact/"
+                />
+  </url><url>
+    <loc>http://zeppelinstudio.github.io/de/games/milkshake/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="http://zeppelinstudio.github.io/games/milkshake/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="de"
+                href="http://zeppelinstudio.github.io/de/games/milkshake/"
+                />
+  </url><url>
+    <loc>http://zeppelinstudio.github.io/de/games/minigames/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="http://zeppelinstudio.github.io/games/minigames/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="de"
+                href="http://zeppelinstudio.github.io/de/games/minigames/"
                 />
   </url><url>
     <loc>http://zeppelinstudio.github.io/de/tags/</loc>
@@ -96,6 +192,30 @@
                 rel="alternate"
                 hreflang="de"
                 href="http://zeppelinstudio.github.io/de/team/"
+                />
+  </url><url>
+    <loc>http://zeppelinstudio.github.io/de/games/wake-time-frame/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="http://zeppelinstudio.github.io/games/wake-time-frame/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="de"
+                href="http://zeppelinstudio.github.io/de/games/wake-time-frame/"
+                />
+  </url><url>
+    <loc>http://zeppelinstudio.github.io/de/games/wizefloor/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="http://zeppelinstudio.github.io/games/wizefloor/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="de"
+                href="http://zeppelinstudio.github.io/de/games/wizefloor/"
                 />
   </url><url>
     <loc>http://zeppelinstudio.github.io/de/</loc>
