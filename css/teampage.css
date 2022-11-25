@@ -11,6 +11,14 @@ body.custom-background {
     height: 128px;
 }
 
+.teamwrapper .teammember{
+    background-color: #f8f8f4;
+}
+
+.teamwrapper .teammember:nth-child(even) {
+    background-color: #f4f4f8;
+}
+
 .lookAtMouseWrapper {
     float: left;
 }
