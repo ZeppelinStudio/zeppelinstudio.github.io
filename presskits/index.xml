@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Presskits on Zeppelin Studio</title>
+    <link>http://zeppelinstudio.github.io/presskits/</link>
+    <description>Recent content in Presskits on Zeppelin Studio</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language><atom:link href="http://zeppelinstudio.github.io/presskits/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Press Kit - Schein</title>
+      <link>http://zeppelinstudio.github.io/presskits/schein/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://zeppelinstudio.github.io/presskits/schein/</guid>
+      <description>Details Release Date: October 10, 2014 Genre: Puzzle Platformer Platforms: Steam, GOG, Humble Store, more… Developer: Zeppelin Studio Publisher: Meridian4
+Press Contact: Savannah Sher (Meridian4) / Tiare Feuchtner (Zeppelin Studio) Website: scheingame.com Facebook: facebook.com/scheingame Twitter: twitter.com/scheingame Google+: google.com/+Scheingame YouTube: youtube.com/scheingame Schein Steam Release
+Short Description Use the magic of light to explore hidden worlds, solve challenging puzzles and defeat deadly beasts in award-winning Schein, possibly the trickiest platformer you’ll play all year.</description>
+    </item>
+    
+  </channel>
+</rss>
