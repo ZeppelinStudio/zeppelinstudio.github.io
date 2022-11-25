@@ -12,7 +12,52 @@
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>http://zeppelinstudio.github.io/de/games/schein/</guid>
-      <description>Use the magic of light to explore hidden worlds in the trickiest puzzle platformer you’ll play all year.</description>
+      <description>Verwende die Magie des Lichtes um knifflige Rätsel zu lösen und verborgene Welten zu entdecken.</description>
+    </item>
+    
+    <item>
+      <title>Coral Reef</title>
+      <link>http://zeppelinstudio.github.io/de/games/coralreef/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://zeppelinstudio.github.io/de/games/coralreef/</guid>
+      <description>Tauche ein in die atemberaubende Unterwasserwelt der Korallen</description>
+    </item>
+    
+    <item>
+      <title>Rebuilders</title>
+      <link>http://zeppelinstudio.github.io/de/games/rebuilders/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://zeppelinstudio.github.io/de/games/rebuilders/</guid>
+      <description>Designe deine eigenen Fahrzeuge und bringe die Welt wieder ins Gleichgewicht.</description>
+    </item>
+    
+    <item>
+      <title>Luther</title>
+      <link>http://zeppelinstudio.github.io/de/games/luther/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://zeppelinstudio.github.io/de/games/luther/</guid>
+      <description>Hilf dem Reformator Martin Luther auf der Flucht und bring ihn in Sicherheit.</description>
+    </item>
+    
+    <item>
+      <title>Crave</title>
+      <link>http://zeppelinstudio.github.io/de/games/crave/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://zeppelinstudio.github.io/de/games/crave/</guid>
+      <description>Sammele Kristalle und verbessere deine Ausrüstung, um in diesem intensiven Multiplayer-Shooter als Sieger hervorzugehen.</description>
+    </item>
+    
+    <item>
+      <title>Data Clash</title>
+      <link>http://zeppelinstudio.github.io/de/games/dataclash/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://zeppelinstudio.github.io/de/games/dataclash/</guid>
+      <description>Nimm deine Rechte wahr und verteidige dich vor den Datensammlern!</description>
     </item>
     
     <item>
@@ -25,6 +70,15 @@
     </item>
     
     <item>
+      <title>Grattle</title>
+      <link>http://zeppelinstudio.github.io/de/games/grattle/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://zeppelinstudio.github.io/de/games/grattle/</guid>
+      <description>Die Bedeutung erneuerbarer Energien spielerisch erlernen – in Grattle hilfst du Inselbewohnern in Not ihre Ökobalance wieder in den Griff zu bekommen.</description>
+    </item>
+    
+    <item>
       <title>Kontakt</title>
       <link>http://zeppelinstudio.github.io/de/contact/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
@@ -34,12 +88,48 @@
     </item>
     
     <item>
+      <title>Milkshake</title>
+      <link>http://zeppelinstudio.github.io/de/games/milkshake/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://zeppelinstudio.github.io/de/games/milkshake/</guid>
+      <description>Willst du Milch? – Dann schüttel Kühe!</description>
+    </item>
+    
+    <item>
+      <title>Minigames</title>
+      <link>http://zeppelinstudio.github.io/de/games/minigames/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://zeppelinstudio.github.io/de/games/minigames/</guid>
+      <description>Unsere Spielesammlung und Hall-of-Fame von Game Jams und anderen Nebenprojekten.</description>
+    </item>
+    
+    <item>
       <title>Team</title>
       <link>http://zeppelinstudio.github.io/de/team/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>http://zeppelinstudio.github.io/de/team/</guid>
       <description>HALLO, WIR SIND ZEPPELIN STUDIO: EIN KLEINES, ERFAHRENES TEAM VON PROFESSIONELLEN SPIELEENTWICKLERN.</description>
+    </item>
+    
+    <item>
+      <title>Wake Time Frame</title>
+      <link>http://zeppelinstudio.github.io/de/games/wake-time-frame/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://zeppelinstudio.github.io/de/games/wake-time-frame/</guid>
+      <description>Die interaktive Wertungsapplikation für Wakesurfbewerbe und mehr.</description>
+    </item>
+    
+    <item>
+      <title>Wizefloor</title>
+      <link>http://zeppelinstudio.github.io/de/games/wizefloor/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://zeppelinstudio.github.io/de/games/wizefloor/</guid>
+      <description>Der interaktive Fußboden für Unterricht, Spiele und mehr</description>
     </item>
     
   </channel>
