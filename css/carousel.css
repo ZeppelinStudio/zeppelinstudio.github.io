@@ -1,6 +1,6 @@
 .carousel {
     position: relative;
-    margin-bottom: 5px;
+    margin-bottom: 6px;
 
     font-family: 'Miso', 'Open Sans', arial, helvetica, tahoma, sans-serif;
     font-size: 24px;
@@ -65,9 +65,8 @@
 .carousel ul li a>div.text{
     flex-direction: column;
     width: 20%;
-    margin-left: 5%;
     align-items: start;
-    background: rgba(0,0,0,0.7);
+    background: linear-gradient(90deg, rgba(0,0,0,1) 0%, rgba(0,0,0,0) 100%);
     padding: 5px;
 }
 
@@ -80,24 +79,35 @@
     padding: 5px;
 }
 
+.carousel .text .section
+{
+    padding-bottom: 10px;
+    font-size: 20px;
+    font-weight: 400;
+}
+
 .carousel .text .title
 {
-    font-weight: bold;
-    padding-bottom: 10px;
+    font-weight: 400;
+    padding-bottom: 24px;
+    font-size: 60px;
+    letter-spacing: 2px;
 }
 
 .carousel .text .summary
 {
-    font-weight: normal;
+    font-weight: 400;
+    font-size: 24px;
+    line-height: 28px;
+    letter-spacing: 0.5px;
 }
 
-.carousel ol {
+.carousel ol.slider-buttons {
     position: absolute;
-    bottom: 15px;
+    bottom: 5px;
     display: flex;
     justify-content: center;
-    left: 50%;
-    transform: translateX(-50%);
+    right: 0;
     z-index: 9;
 }
 
