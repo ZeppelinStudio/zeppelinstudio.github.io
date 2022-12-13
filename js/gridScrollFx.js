@@ -133,6 +133,8 @@
 	}
 
 	GridScrollFx.prototype._init = function() {
+		if(this.el == null) return;
+
 		var self = this, items = [];
 
 		[].slice.call( this.el.children ).forEach( function( el, i ) {
